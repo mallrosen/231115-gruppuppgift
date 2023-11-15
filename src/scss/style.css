@@ -1,0 +1,16 @@
+.animalsLi {
+  border: 2px solid blue;
+  background-color: rgb(182, 248, 248);
+  border-radius: 10px;
+  max-width: 30vh;
+  padding: 20px;
+}
+
+.animalsUl {
+  text-align: center;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
