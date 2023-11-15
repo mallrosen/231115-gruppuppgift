@@ -1,4 +1,4 @@
-.animalsLi{
+.animalsLi {
   border: 2px solid blue;
   background-color: rgb(182, 248, 248);
   border-radius: 10px;
@@ -6,24 +6,11 @@
   padding: 20px;
 }
 
-.animalsUl{
+.animalsUl {
   text-align: center;
   font-weight: bold;
   display: flex;
   flex-direction: column;
   gap: 10px;
   list-style: none;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
+}/*# sourceMappingURL=style.css.map */
